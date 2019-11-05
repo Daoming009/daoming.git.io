@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+title: 技术博客
+email: 863252331@qq.com
+description: 自然语言处理中的一条小船
+
+url: "https://daoming009.github.io/qishun.git.io/" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  Daoming009
